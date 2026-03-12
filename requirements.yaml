@@ -1,0 +1,18 @@
+packages:
+  "framer-motion": "For fluid page transitions, staggered lists, and micro-interactions"
+  "recharts": "For the analytics dashboard charts (bar, pie, donut)"
+  "date-fns": "For formatting dates in the schedule, tasks, and analytics"
+  "react-hook-form": "For robust form state management in tasks and schedule pages"
+  "@hookform/resolvers": "For validating forms against Zod schemas"
+  "clsx": "For conditional class name merging in UI components"
+  "tailwind-merge": "For resolving Tailwind class conflicts in reusable components"
+
+images:
+  - path: "artifacts/study-planner/public/images/dashboard-hero.png"
+    description: "Abstract, soft gradient mesh in deep indigo, navy, and subtle teal. Professional, academic, clean, and inspiring. Used as a subtle header background."
+    aspect_ratio: "16:9"
+
+notes:
+  - Using generated Orval React Query hooks from @workspace/api-client-react
+  - Forms use react-hook-form with Zod validation to ensure payloads match API schemas
+  - App requires standard TanStack query setup (already in App.tsx)
