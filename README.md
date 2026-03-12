@@ -15,3 +15,11 @@ Study Focus AI is an intelligent study planning and productivity web application
 🔥 Streak Tracking – Encourages consistent learning habits.
 
 📅 Weekly Schedule View – Visual calendar for planning study sessions.
+
+Team members
+## 👩‍💻 Team
+
+* Ankita Bhojwani – Developer
+* @samiksharramteke
+* @janhavijiotode
+* @mrunalideshkar
